@@ -70,8 +70,3 @@ For forensic reasons, it is advised to run a search and verify the number of upd
 
 <img width="1842" alt="Bildschirmfoto 2023-06-07 um 21 21 33" src="https://github.com/gtadigital/cms-datacuration/assets/30504518/53b7e2c9-8a1c-47de-9148-10cd5a142d5f">
 
-
-
-## Additional Resources
-[Manufacturers Documentation on CSV Importer](https://docs.easydb.de/en/tools/csvimport/)
-[Manufacturers Documentation on JSON Importer](https://docs.easydb.de/en/tools/jsonimport/)
