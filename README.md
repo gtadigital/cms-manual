@@ -19,8 +19,8 @@
 
 
 ## Importing and Updating Data
-* [Importing Data](import-data.md)
-* [Importing Digital Assets](import-digital-assets.md)
-* [Updating Flat Data](update-flat-data.md)
-* [Updating Lineked and Nested Data](update-linked-data.md)
-* [Additional Resources](additional-resources.md)
+* [Importing Data](importing-and-updating-data/import-data.md)
+* [Importing Digital Assets](importing-and-updating-data/import-digital-assets.md)
+* [Updating Flat Data](importing-and-updating-data/update-flat-data.md)
+* [Updating Lineked and Nested Data](importing-and-updating-data/update-linked-data.md)
+* [Additional Resources](importing-and-updating-data/additional-resources.md)
