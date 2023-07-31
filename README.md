@@ -23,4 +23,6 @@
 * [Importing Data](importing-and-updating-data/import-data.md)
 * [Updating Data](importing-and-updating-data/update-flat-data.md)
 * [Importing and Updating Linked and Nested Fields](importing-and-updating-data/update-linked-data.md)
+
+## Additional Support Resources
 * [Additional Support Resources](importing-and-updating-data/additional-resources.md)
