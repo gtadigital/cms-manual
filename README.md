@@ -4,18 +4,18 @@
 ## To Start With
 
 ## Adding and Editing Records
-* [_Actors](readme.md)
-* [_Architectural Competitions](readme.md)
-* [_Archival Objects](readme.md)
-* [_Art Works](readme.md)
-* [_Bibliographic Item](readme.md)
-* [_Digital Objectss](readme.md)
-* [_Events](readme.md)
-* [_Locations](readme.md)
-* [_Œuvre, Built Works, Projects](readme.md)
-* [_Physical Object](readme.md)
-* [_Places](readme.md)
-* [_Printed Matters](readme.md)
+* _Actors
+* _Architectural Competitions
+* _Archival Objects
+* _Art Works
+* _Bibliographic Item
+* _Digital Objects
+* _Events
+* _Locations
+* _Œuvre, Built Works, Projects
+* _Physical Object
+* _Places
+* _Printed Matters
 
 
 ## Importing and Updating Data
@@ -25,4 +25,5 @@
 * [Importing and Updating Linked and Nested Fields](importing-and-updating-data/update-linked-data.md)
 
 ## Additional Support Resources
-* [Additional Support Resources](importing-and-updating-data/additional-resources.md)
+* [User Manuel Manufacturer](https://docs.easydb.de/en/webfrontend/)
+* [Additional Support Resources (import/export)](importing-and-updating-data/additional-resources.md)
