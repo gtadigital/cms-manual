@@ -9,7 +9,9 @@
 The section Names and Classifications handles appellations and information on types of digital objects.  
 
 ### Name (filename on import)
-The field reflects the filename on import as provided by the files metadata. `Note: This field must not and cannot be be changed.` 
+The field reflects the filename on import as provided by the files metadata. 
+
+`Note: This field must not and cannot be be changed.` 
 
 ### Name (filename set)
 The field is used to catalogue the desired filename for export purposes. Note that the embedded metadata cannot be changed. 
