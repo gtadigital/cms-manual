@@ -24,7 +24,7 @@ See Legacy Documentation as well.
 * _Archival Objects
 * _Art Works
 * _Bibliographic Item
-* _Digital Objects
+* [_Digital Objects](editorial-guidelines/d1_digital-objects.md)
 * _Events
 * _Locations
 * _Œuvre, Built Works, Projects
